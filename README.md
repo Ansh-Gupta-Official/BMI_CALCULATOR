@@ -1,3 +1,3 @@
-# untitled5
+BMI CALCULATOR
 
-A new Flutter project.
+It is a body mass index calculator app which is created in flutter framework.
